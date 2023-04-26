@@ -1,0 +1,9 @@
+name: seng8080-2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - gzip
+  - boto3
+
+variables:
