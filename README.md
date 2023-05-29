@@ -9,3 +9,4 @@ test contributor
 Sharath Chandra Goli
 Ka Yi Chan
 Meet Bardoliya
+Jagpreet Singh
