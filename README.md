@@ -1,7 +1,3 @@
-# Hello
-
-## Contributors
-
 Ryan
 Prutha Patani
 Nayan
@@ -19,4 +15,8 @@ Ailing Wang
 Sachin Joseph
 Chirag Bhanushali
 Kalyan Narmala
-
+Kalyan Narmala
+Dharshika Amaradasa
+Vishwaja Revoori
+Deepthi Mukundan
+Deep Shah
