@@ -20,5 +20,7 @@ Dharshika Amaradasa
 Vishwaja Revoori
 Deepthi Mukundan
 Deep Shah
+Shivam Joshi
+Devanshi Joshi 
 Iraa Singh
 Abhishek Malik
