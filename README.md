@@ -1,8 +1,3 @@
-# Hello
-
-## Contributors
-
-
 Ryan
 Prutha Patani
 Nayan
@@ -18,9 +13,13 @@ Hardik Rathod
 Rubel Binu
 Ailing Wang
 Sachin Joseph
+Chirag Bhanushali
+Kalyan Narmala
 Kalyan Narmala
 Dharshika Amaradasa
 Vishwaja Revoori
 Deepthi Mukundan
 Deep Shah
 Devanshi Joshi 
+Iraa Singh
+
