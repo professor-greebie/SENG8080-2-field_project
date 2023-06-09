@@ -3,7 +3,6 @@
 ## Contributors
 
 Ryan
-Kiranmai Bogireddy
 Prutha Patani
 Nayan
 Varun
@@ -29,3 +28,4 @@ Shivam Joshi
 Devanshi Joshi 
 Iraa Singh
 Abhishek Malik
+Kiranmai Bogireddy
