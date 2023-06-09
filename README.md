@@ -30,5 +30,6 @@ Shivam Joshi
 Devanshi Joshi 
 Iraa Singh
 Abhishek Malik
+Pranshu  Mahajan
 Kiranmai Bogireddy
 =======
