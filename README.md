@@ -32,5 +32,5 @@ Iraa Singh
 Abhishek Malik
 Pranshu  Mahajan
 Kiranmai Bogireddy
-Karan V Patel
+Karan Patel
 =======
