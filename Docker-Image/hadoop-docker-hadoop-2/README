@@ -1,0 +1,9 @@
+Hello,
+
+To create docker image. Please follow below commands in Anaconda.
+
+1. Activate Environment
+2. Move to directory to Docker-Image\hadoop-docker-hadoop-2 using cd command in Anaconda command prompt
+3. Run the command "docker-compose up -d"
+
+It will create image in docker with data and name nodes with their managers.
