@@ -25,6 +25,7 @@ Kalyan Narmala
 Dharshika Amaradasa
 Vishwaja Revoori
 Deepthi Mukundan
+Tanishqa Sharma
 Deep Shah
 Shivam Joshi
 Devanshi Joshi 
