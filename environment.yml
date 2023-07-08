@@ -5,5 +5,5 @@ dependencies:
   - python=3.10
   - gzip
   - boto3
-
+  - jupyter
 variables:
