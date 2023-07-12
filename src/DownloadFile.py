@@ -11,24 +11,29 @@ def validatePath(path):
 def DownloadFile(fileToDownloadURL, localFileSavePath):
     outputfileName = fileToDownloadURL.split("/")[-1]
 
-    #checking is path where file will be stored is exists or not.
+    # Checking if the path where the file will be stored exists or not.
     if validatePath(localFileSavePath):
-        #Download the file from the URL
-        response = requests.get(fileToDownloadURL, stream=True)
+        try:
+            # Download the file from the URL
+            response = requests.get(fileToDownloadURL, stream=True)
 
-        # Save the file locally
-        if response.status_code == 200:
-            fileSave = localFileSavePath +"/"+ outputfileName
-            with open(fileSave, "wb") as file:
-                for chunk in response.iter_content(chunk_size=8192):
-                    file.write(chunk)
+            # Save the file locally
+            if response.status_code == 200:
+                fileSave = localFileSavePath + "/" + outputfileName
+                with open(fileSave, "wb") as file:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        file.write(chunk)
 
-            print("File Downloaded Successfully.")
-            print("File Location : " + localFileSavePath)
-            print("File Name : " + outputfileName)
-        else:
-            print("Failed to Download The File.")
-
+                print("File Downloaded Successfully.")
+                print("File Location: " + localFileSavePath)
+                print("File Name: " + outputfileName)
+            else:
+                print("Failed to Download The File.")
+        except Exception as e:
+            print("An error occurred during the file download:")
+            print(str(e))
+    else:
+        print("Invalid local file save path.")
 
 if __name__ == "__main__":
     streamPath = input("Enter path of file to be Download : ")
