@@ -55,10 +55,11 @@ For a complete list of supported species, please refer to the official UCSC Geno
 * Deepthi Mukundan
 * Deep Shah
 * Shivam Joshi
-* Devanshi Joshi 
+* Devanshi Joshi
 * Iraa Singh
 * Abhishek Malik
 * Pranshu  Mahajan
 * Kiranmai Bogireddy
 * Karan Patel
-* Jay Thakkar 
+* Jay Thakkar
+* Tanishqa Sharma 
