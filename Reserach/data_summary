@@ -1,0 +1,13 @@
+Basic summary of the dataset based on the initial analysis
+- The DataFrame contains 457,036 rows and 13 columns.
+- The columns are: 'Chromosome', 'Source', 'Feature', 'Start', 'End', 'Score', 'Strand', 'Frame', 'gene_id', 'transcript_id', 'gene_name', 'exon_number', and 'exon_id'.
+- The 'Chromosome', 'Feature', and 'Strand' columns are of categorical data type.
+- The 'Start' and 'End' columns are of integer data type (int64).
+- The 'Score', 'Frame', 'gene_id', 'transcript_id', 'gene_name', 'exon_number', and 'exon_id' columns are of object data type (strings).
+- The DataFrame has 457,036 non-null entries for all columns except 'exon_number' and 'exon_id', which have 422,756 non-null entries.
+- Exons and CDS represent the majority, making up 42.4% and 40.2% of the features, respectively. 
+- Transcripts, start_codons, and stop_codons each contribute around 7.5% and 4.9% to the total feature distribution.
+- All columns except 'exon_number' and 'exon_id' have complete data with zero missing values. However, the 'exon_number' and 'exon_id' columns have 34,280 missing entries each. 
+- These columns might have some null values that need to be handled appropriately for data analysis or processing.
+- The gene with the most transcripts is 'ENSDORG00000015070.1'.
+- The gene with the most exons is 'ENSDORG00000016509.1'.
