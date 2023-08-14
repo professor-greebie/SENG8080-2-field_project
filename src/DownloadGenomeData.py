@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
     filename = 'dipOrd1.ensGene.gtf.gz'
     s3Path = 'goldenPath/dipOrd1/bigZips/genes/' + filename
-    localPath = 'D:/Level2/PROG8080_CaseStudies/GenomeData/' + filename
+    localPath = 'D://' + filename
 
     # Create and start the threads
     for i in range(num_threads):
