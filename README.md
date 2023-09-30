@@ -162,4 +162,6 @@ else:
 * Kiranmai Bogireddy
 * Karan Patel
 * Jay Thakkar
-* Tanishqa Sharma 
+* Tanishqa Sharma
+* Rishi Thakkar
+* Vijay Meena
